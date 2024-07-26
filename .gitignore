@@ -21,3 +21,6 @@ noti.py.py
 dist/
 easy_async_tg_notify.egg-info/
 build/
+
+noti.py
+pyproject.toml
