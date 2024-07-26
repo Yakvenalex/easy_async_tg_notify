@@ -1,0 +1,23 @@
+# Игнорирование виртуальной среды Python
+venv/
+.venv/
+
+
+# Игнорирование файлов с окружением
+.env
+
+# Игнорирование скомпилированных файлов Python
+__pycache__/
+**/__pycache__/
+
+# Игнорирование настроек проекта для PyCharm
+.idea/
+**/.idea/
+
+
+noti.py.py
+
+
+dist/
+easy_async_tg_notify.egg-info/
+build/
