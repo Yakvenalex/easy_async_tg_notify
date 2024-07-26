@@ -3,3 +3,6 @@ httpx
 aiofiles
 setuptools
 twine
+pytest
+pytest-asyncio
+aioresponses
